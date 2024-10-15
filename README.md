@@ -12,7 +12,7 @@ The objective of this script is to establish a structured database for Car Analy
 * CARS Table: Stores information about the cars available, including model, brand, price, and stock.
 * CUSTOMERS Table: Contains customer details such as first name, last name, location, and email.
 * ORDERS Table: Records orders placed by customers, linking to the customer and providing order date and total amount.
-* ORDERS_DETAILS Table: Details each order, including the specific bikes ordered, quantities, and prices.
+* ORDERS_DETAILS Table: Details each order, including the specific cars ordered, quantities, and prices.
 # 2.Data Insertion:
 
 * Populate the tables with sample data for cars, customers, orders, and order details to simulate the database's functionality.
@@ -26,4 +26,4 @@ The objective of this script is to establish a structured database for Car Analy
 * Data Insertion: Adds initial data to the database tables.
 * Data Retrieval: Queries to fetch and analyze data for business insights.
 * Table Modification: Updates table structures and settings to maintain data integrity and meet evolving business needs.
-* This script provides a comprehensive framework for managing Iron Motors' database, ensuring organized storage, easy access to data, and flexibility for future modifications.
+* This script provides a comprehensive framework for managing Car Analysis database, ensuring organized storage, easy access to data, and flexibility for future modifications.
